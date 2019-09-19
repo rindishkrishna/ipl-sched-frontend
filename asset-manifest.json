@@ -1,14 +1,14 @@
 {
   "files": {
     "main.css": "/ipl-sched-frontend/static/css/main.da03725e.chunk.css",
-    "main.js": "/ipl-sched-frontend/static/js/main.7d6dea2a.chunk.js",
-    "main.js.map": "/ipl-sched-frontend/static/js/main.7d6dea2a.chunk.js.map",
+    "main.js": "/ipl-sched-frontend/static/js/main.61139e78.chunk.js",
+    "main.js.map": "/ipl-sched-frontend/static/js/main.61139e78.chunk.js.map",
     "runtime~main.js": "/ipl-sched-frontend/static/js/runtime~main.3d1b2ff6.js",
     "runtime~main.js.map": "/ipl-sched-frontend/static/js/runtime~main.3d1b2ff6.js.map",
     "static/js/2.497dade9.chunk.js": "/ipl-sched-frontend/static/js/2.497dade9.chunk.js",
     "static/js/2.497dade9.chunk.js.map": "/ipl-sched-frontend/static/js/2.497dade9.chunk.js.map",
     "index.html": "/ipl-sched-frontend/index.html",
-    "precache-manifest.a758e132908dbb16b93c57dcb2554647.js": "/ipl-sched-frontend/precache-manifest.a758e132908dbb16b93c57dcb2554647.js",
+    "precache-manifest.aec7d5256b76361324fb16243c99e0ef.js": "/ipl-sched-frontend/precache-manifest.aec7d5256b76361324fb16243c99e0ef.js",
     "service-worker.js": "/ipl-sched-frontend/service-worker.js",
     "static/css/main.da03725e.chunk.css.map": "/ipl-sched-frontend/static/css/main.da03725e.chunk.css.map"
   }

@@ -14,7 +14,7 @@
 importScripts("https://storage.googleapis.com/workbox-cdn/releases/4.3.1/workbox-sw.js");
 
 importScripts(
-  "/ipl-sched-frontend/precache-manifest.a758e132908dbb16b93c57dcb2554647.js"
+  "/ipl-sched-frontend/precache-manifest.aec7d5256b76361324fb16243c99e0ef.js"
 );
 
 self.addEventListener('message', (event) => {
